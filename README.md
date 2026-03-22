@@ -13,9 +13,6 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=4FC3F7&style=for-the-badge" />
-</p>
 
 
 <h3 align="center">💻 Student Developer | Passionate Learner | Future Tech Enthusiast 🚀</h3>
