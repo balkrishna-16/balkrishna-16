@@ -1,12 +1,7 @@
 <h1 align="center">
-  <span style="
-    background: linear-gradient(270deg, #4FC3F7, #81C784, #4FC3F7);
-    background-size: 600% 600%;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: gradientMove 8s ease infinite;
-    font-weight: bold;
-  ">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:81C784&height=200&section=header&text=Hi%20I'm%20Balkrishna%20Chaudhary&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
     🌤️ Hi, I'm Balkrishna Chaudhary 👋
   </span>
 </h1>
