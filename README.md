@@ -1,4 +1,3 @@
-<!-- Animated Gradient Heading -->
 <h1 align="center">
   <span style="
     background: linear-gradient(270deg, #4FC3F7, #81C784, #4FC3F7);
