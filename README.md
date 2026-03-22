@@ -5,14 +5,7 @@
     🌤️ Hi, I'm Balkrishna Chaudhary 👋
   </span>
 </h1>
-
-<style>
-@keyframes gradientMove {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
 <h3 align="center">💻 Student Developer | Passionate Learner | Future Tech Enthusiast 🚀</h3>
 
