@@ -1,19 +1,51 @@
-<h1 align="center">Hi 👋, I'm Balkrishna chaudhary</h1>
-<h2>BKCPRIDE HOME <h2>
-<h3 align="center">A passionate student from nepal</h3>
+<!-- Blue Sky Theme Header -->
+<h1 align="center" style="color:#4FC3F7;">🌤️ Hi, I'm [Your Name] 👋</h1>
 
-- 🌱 I’m currently learning **github**
+<h3 align="center">💻 Student Developer | Passionate Learner | Future Tech Enthusiast 🚀</h3>
 
-- 💬 Ask me about **html css and js**
+---
 
-- 📄 Know about my experiences [i am a student rn](i am a student rn)
+## 🌟 About Me
+- 🎓 I am currently studying at **Tribhuvan University**  
+- 🏫 Campus: **Mahakavi Devkota Campus, Sunwal**  
+- 🌱 I’m learning and exploring new technologies every day  
+- 🌐 I have experience in **Web Hosting & Internet Technologies**  
+- 🎯 Goal: To become a professional developer and build impactful projects  
 
-- ⚡ Fun fact **I am a tiktoker**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🛠️ Skills
+- 💡 Programming Languages:
+  - ⚙️ C
+  - ⚙️ C++
+- 🌐 Web Development:
+  - 🧱 HTML  
+  - 🎨 CSS  
+  - ⚡ JavaScript  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+---
 
+## 🎓 Education
+- 📘 **Tribhuvan University**  
+- 🏫 **Mahakavi Devkota Campus, Sunwal**  
+- 📖 Currently pursuing my studies in the IT field  
+
+---
+
+## 🚀 Projects
+- 🔨 **Coming Soon...**  
+  *(Working on exciting projects. Stay tuned!)*  
+
+---
+
+## 📬 Contact Me
+- 📧 Email: **bkcpride.16@gmail.com**  
+
+---
+
+<!-- Footer Green Accent -->
+<h3 align="center" style="color:#4CAF50;">🌿 Keep Learning | Keep Growing 🌿</h3>
+
+---
+
+⭐ *Thanks for visiting my profile!*
