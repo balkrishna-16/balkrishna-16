@@ -10,7 +10,7 @@
 </p>
 <p align="center">
   <p align="center">
-  <img src="https://www.google.com/search?q=gif+of+anime+computer+boy" />
+  <img src="[https://www.google.com/search?q=gif+of+anime+computer+boy](https://media.tenor.com/zWLzYDsUprAAAAAM/anime-boy.gif)" />
 </p>
 
 
