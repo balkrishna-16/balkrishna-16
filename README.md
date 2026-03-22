@@ -1,6 +1,6 @@
 <h1 align="center">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:81C784&height=200&section=header&text=Hi%20I'm%20Balkrishna%20Chaudhary&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,100:81C784&height=200&section=header&text=Balkrishna%20Chaudhary&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
     🌤️ Hi, I'm Balkrishna Chaudhary 👋
   </span>
