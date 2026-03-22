@@ -9,10 +9,13 @@
   <img src="https://komarev.com/ghpvc/?username=balkrishna-chaudhary&label=Profile%20Views&color=4FC3F7&style=for-the-badge" />
 </p>
 <p align="center">
-  <!-- Cartoon Boy GIF -->
-  <[[img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" ](https://media.tenor.com/zWLzYDsUprAAAAAM/anime-boy.gif)](https://tenor.com/search/anime-pc-gifs)/>
+  <p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" />
+</p>
 
-  <br><br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=4FC3F7&style=for-the-badge" />
+</p>
 
   <!-- Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=4FC3F7&style=for-the-badge" />
