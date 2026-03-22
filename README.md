@@ -10,7 +10,7 @@
 </p>
 <p align="center">
   <!-- Cartoon Boy GIF -->
-  <[img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" ](https://media.tenor.com/zWLzYDsUprAAAAAM/anime-boy.gif)/>
+  <[[img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200" ](https://media.tenor.com/zWLzYDsUprAAAAAM/anime-boy.gif)](https://tenor.com/search/anime-pc-gifs)/>
 
   <br><br>
 
