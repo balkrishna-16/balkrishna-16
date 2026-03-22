@@ -5,8 +5,9 @@
     🌤️ Hi, I'm Balkrishna Chaudhary 👋
   </span>
 </h1>
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=balkrishna-chaudhary&label=Profile%20Views&color=4FC3F7&style=for-the-badge" />
+</p>
 <h3 align="center">💻 Student Developer | Passionate Learner | Future Tech Enthusiast 🚀</h3>
 
 ---
