@@ -10,7 +10,7 @@
 </p>
 <p align="center">
   <p align="center">
-  <img src="[https://www.google.com/search?q=gif+of+anime+computer+boy](https://media.tenor.com/zWLzYDsUprAAAAAM/anime-boy.gif)" />
+  <img src="[[https://www.google.com/search?q=gif+of+anime+computer+boy](https://media.tenor.com/zWLzYDsUprAAAAAM/anime-boy.gif)](https://www.google.com/imgres?q=gif%20of%20anime%20computer%20boy&imgurl=https%3A%2F%2F64.media.tumblr.com%2Ftumblr_ma9emaKfkN1qbvovho1_500.gif&imgrefurl=https%3A%2F%2Fwww.tumblr.com%2Flilium%2F31425191033&docid=Dts277I3LWSmZM&tbnid=0Vx57-Umf1ozzM&vet=12ahUKEwjq2NPcvbKTAxXafGwGHUfnAlsQnPAOegQIJhAA..i&w=500&h=335&hcb=2&itg=1&ved=2ahUKEwjq2NPcvbKTAxXafGwGHUfnAlsQnPAOegQIJhAA)" />
 </p>
 
 
