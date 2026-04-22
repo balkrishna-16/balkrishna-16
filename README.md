@@ -59,7 +59,7 @@
 <h3 align="center" style="color:#4CAF50;">🌿 Keep Learning | Keep Growing 🌿</h3>
 
 ---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=balkrishna-16&show_icons=true&theme=tokyonight)
 
 ⭐ *Thanks for visiting my profile!*
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=balkrishna-16&show_icons=true&theme=tokyonight)
