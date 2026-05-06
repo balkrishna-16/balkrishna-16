@@ -61,6 +61,5 @@
 ---
 
 ⭐ *Thanks for visiting my profile!*
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balkrishna-16&layout=compact&theme=tokyonight)
 
 
